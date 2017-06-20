@@ -1,3 +1,4 @@
 #Ignore ipython notebook checkpoints
-
+*.fits
 *.ipynb_checkpoint*
+*.pyc
